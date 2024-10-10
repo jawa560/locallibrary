@@ -6,5 +6,5 @@
 ![1](images/page.jpg)
 
 - 本案使用到MongoDB的雲端資料庫
-![2](images/mangoDB_atlas.jpg)
+![2](images/mangoDB_atlas.png)
  
